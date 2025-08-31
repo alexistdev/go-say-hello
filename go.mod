@@ -1,3 +1,3 @@
-module github.com/alexistdev/go-say-hello
+module github.com/alexistdev/go-say-hello/v2
 
 go 1.23.3
